@@ -14,7 +14,7 @@ export default function HeroSection({ children }: HeroSectionProps) {
         minHeight: '535px',
         paddingTop: '96px',
         paddingBottom: '32px',
-        background: 'linear-gradient(180deg, rgba(93, 6, 233, 0.02) 0%, rgba(28, 29, 246, 0.13) 100%)',
+        background: 'linear-gradient(180deg, #f8f6fe 0%, #f1eefe 50%, #e6e5fe 100%)',
       }}
     >
       {/* Decorative Background Image - Underlying first card on left side */}
